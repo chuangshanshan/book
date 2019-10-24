@@ -1,9 +1,12 @@
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
 
 // Variables
-@import 'variables';
+//@import 'variables';
 
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+//@import '~bootstrap/scss/bootstrap';
 @import "style.bundle.css";
+@import "header_base_light.css";
+@import "header_menu_light.css";
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
